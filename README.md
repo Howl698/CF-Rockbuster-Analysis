@@ -31,6 +31,9 @@ The Rockbuster Data Dictionary outlines the entity relationship diagram (ERD) pe
 
 # Code Execution
 
+Queries were run in Postgre SQL.  The queries that produced the parameters identified above were saved in an excel workbook labeled 'rockbuster_data' along with the results of the queries.  
+The excel workbook can be found in the folder /Rockbuster_SQL_queries/
+
 # Resources
 
 
