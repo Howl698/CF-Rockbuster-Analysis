@@ -1,6 +1,6 @@
 # CF-Rockbuster-Analysis
 
-Using PostgreSQL to query and analyze Rockbuster Stealth's data sets that contain information about Rockbuster’s 
+Using PostgreSQL to query and analyze Rockbuster Stealth's dataset that contain information about Rockbuster’s 
 film inventory, customers, and payments, to support the company's aim to launch an online video rental service.
 
 # Objective
@@ -11,6 +11,8 @@ department the objective of this analysis is to help with the launch strategy fo
 
 # Data 
 
+The Rockbuster dataset can be accessed via SQL here: http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip.
+
 The dataset consists of information pertaining to the following parameters:
 
 * Rental Distribution
@@ -18,7 +20,7 @@ The dataset consists of information pertaining to the following parameters:
 * Revenue by movie titles
 * Customers by region (country, city)
 
-The Rockbuster Data Dictionary outlines the entity relationship diagram (ERD) pertaining to the Rockbuster datasets that were queried and analyzed ([Rockbuster Data Dictionary.pdf](https://github.com/Howl698/CF-Rockbuster-Analysis/files/7816561/Rockbuster.Data.Dictionary.pdf)).
+The Rockbuster Data Dictionary outlines the entity relationship diagram (ERD) pertaining to the Rockbuster dataset that was queried and analyzed ([Rockbuster Data Dictionary.pdf](https://github.com/Howl698/CF-Rockbuster-Analysis/files/7816561/Rockbuster.Data.Dictionary.pdf)).
 
 # Tools
 
