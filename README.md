@@ -39,6 +39,6 @@ The results and recommendations from the analysis were highlighted in Tableau an
 
 # Resources
 
-The data for this analysis was provided by CareerFoundry (https://careerfoundry.com/en/courses/become-a-data-analyst/course-details/).
+The data for this analysis was provided by CareerFoundry (https://careerfoundry.com/en/courses/become-a-data-analyst/course-details/) via Postgre SQL.
 
 
