@@ -1,7 +1,8 @@
 # CF-Rockbuster-Analysis
 
 Using PostgreSQL to query and analyze Rockbuster Stealth's dataset that contain information about Rockbuster’s 
-film inventory, customers, and payments, to support the company's aim to launch an online video rental service.
+film inventory, customers, and payments, to support the company's aim to launch an online video rental service.  
+Visualizations of the results of the analysis were created in Tableau.
 
 # Objective
 
