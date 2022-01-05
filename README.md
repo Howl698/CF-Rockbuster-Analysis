@@ -11,13 +11,20 @@ department the objective of this analysis is to help with the launch strategy fo
 
 # Data 
 
+The dataset consists of information pertaining to the following parameters:
+
+* Rental Distribution
+* Rental Duration
+* Revenue by movie titles
+* Customers by region (country, city)
+
 The Rockbuster Data Dictionary outlines the entity relationship diagram (ERD) pertaining to the Rockbuster datasets that were queried and analyzed ([Rockbuster Data Dictionary.pdf](https://github.com/Howl698/CF-Rockbuster-Analysis/files/7816561/Rockbuster.Data.Dictionary.pdf)).
 
 # Tools
 
 * Postgre SQL - for querying and analyzing the Rockbuster dataset
 * DbVisualizer - for creating the Rockbuster ERD
-* Tableau - for visualizations
+* Tableau - for visualizations (https://public.tableau.com/app/profile/aaron.howland/viz/Rockbuster_16348301986410/RockbusterStreamingAnalysis)
 
 
 
