@@ -16,7 +16,3 @@ The Rockbuster Data Dictionary outlines the entity relationship diagram [Rockbus
 
 
 
-Then, you’ll use SQL to analyze the data and answer any
-ad-hoc business questions that other departments may have. The BI
-department helps other departments, from inventory to customer insights, with data-related
-queries.
