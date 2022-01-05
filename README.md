@@ -27,12 +27,15 @@ The Rockbuster Data Dictionary outlines the entity relationship diagram (ERD) pe
 
 * Postgre SQL - for querying and analyzing the Rockbuster dataset
 * DbVisualizer - for creating the Rockbuster ERD
-* Tableau - for visualizations (https://public.tableau.com/app/profile/aaron.howland/viz/Rockbuster_16348301986410/RockbusterStreamingAnalysis)
+* Tableau - for visualizations 
 
 # Code Execution
 
 Queries were run in Postgre SQL.  The queries that produced the parameters identified above were saved in an excel workbook labeled 'rockbuster_data' along with the results of the queries.  
-The excel workbook can be found in the folder /Rockbuster_SQL_queries/
+
+The excel workbook can be found in the folder /Rockbuster_SQL_queries/.  
+
+The results and recommendations from the analysis were highlighted in Tableau and can be found here: (https://public.tableau.com/app/profile/aaron.howland/viz/Rockbuster_16348301986410/RockbusterStreamingAnalysis).
 
 # Resources
 
