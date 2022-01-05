@@ -35,6 +35,8 @@ Queries were run in Postgre SQL.  The queries that produced the parameters ident
 
 The excel workbook can be found in the folder /Rockbuster_SQL_queries/.  
 
+# Analysis and Visualizations
+
 The results and recommendations from the analysis were highlighted in Tableau and can be found here: (https://public.tableau.com/app/profile/aaron.howland/viz/Rockbuster_16348301986410/RockbusterStreamingAnalysis).
 
 # Resources
